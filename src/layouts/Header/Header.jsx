@@ -17,15 +17,15 @@ const Header = (props) => {
     },
     {
       label: 'Movies & Shows',
-      href: '/movies',
+      href: './movies.html',
     },
     {
       label: 'Support',
-      href: '/support',
+      href: './support.html',
     },
     {
       label: 'Subscriptions',
-      href: '/subscriptions',
+      href: './subscriptions.html',
     },
   ]
 
