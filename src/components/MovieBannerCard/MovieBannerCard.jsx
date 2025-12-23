@@ -40,7 +40,7 @@ const MovieBannerCard = (props) => {
             className="movie-banner-card__play-button"
             iconName="play"
             label="Play Now"
-            href="/movies"
+            href="./movie.html"
             hasFillIcon
           />
           <div className="movie-banner-card__actions">
