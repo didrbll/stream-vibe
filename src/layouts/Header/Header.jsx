@@ -13,7 +13,7 @@ const Header = (props) => {
   const menuItems = [
     {
       label: 'Home',
-      href: '/',
+      href: './index.html',
     },
     {
       label: 'Movies & Shows',
