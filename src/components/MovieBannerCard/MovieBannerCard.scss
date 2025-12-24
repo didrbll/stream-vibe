@@ -22,6 +22,7 @@
     row-gap: fluid(30, 20);
     padding: fluid-to-laptop(126, 104) fluid(50, 24);
     background-image: linear-gradient(0deg, #141414 0%, rgba(20, 20, 20, 0.00) 100%);
+    overflow: hidden;
 
     @include mobile {
       padding-block: 16px;
