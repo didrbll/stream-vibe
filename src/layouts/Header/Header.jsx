@@ -48,7 +48,7 @@ const Header = (props) => {
                 <li className="header__menu-item" key={index}>
                   <a
                     className={classNames('header__menu-link', {
-                      'is-active':href === url,
+                      'is-active':href.replace(/^\.\//, '') === url.replace(/^\//, ''),
                     })}
                     href={href}
                   >
