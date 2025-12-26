@@ -44,18 +44,30 @@ const Header = (props) => {
         >
           <nav className="header__menu">
             <ul className="header__menu-list">
-              {menuItems.map(({ label, href }, index) => (
-                <li className="header__menu-item" key={index}>
-                  <a
-                    className={classNames('header__menu-link', {
-                      'is-active':href.replace(/^\.\//, '') === url.replace(/^\//, ''),
-                    })}
-                    href={href}
-                  >
-                    {label}
-                  </a>
-                </li>
-              ))}
+              {menuItems.map(({ label, href }, index) => {
+                const cleanHref = href.replace(/^\.\//, '').replace(/^\//, '')
+                const cleanUrl = url.replace(/^\.\//, '').replace(/^\//, '')
+
+                const isHome = cleanHref === '' || cleanHref === 'index.html'
+                const isCurrentHome = cleanUrl === '' || cleanUrl === 'index.html'
+
+                const isActive = isHome && isCurrentHome
+                  ? true
+                  : cleanHref === cleanUrl
+
+                return (
+                  <li className="header__menu-item" key={index}>
+                    <a
+                      className={classNames('header__menu-link', {
+                        'is-active': isActive,
+                      })}
+                      href={href}
+                    >
+                      {label}
+                    </a>
+                  </li>
+                )
+              })}
             </ul>
           </nav>
           <div className="header__actions">
