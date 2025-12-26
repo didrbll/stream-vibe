@@ -16,40 +16,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -57,40 +57,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -98,40 +98,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -139,40 +139,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
         ],
@@ -212,124 +212,124 @@ const collectionGroups = [
         movieItems:  [
           {
             title: 'Morbius',
-            imgSrc: '/src/assets/images/movies/1.jpg',
+            imgSrc: '/src/assets/images/movies/movies-1.jpg',
             duration: '1h 30min',
             views: '2K'
           },
           {
             title: 'Kisi Ka Bhai Kisi Ki Jaan',
-            imgSrc: '/src/assets/images/movies/2.jpg',
+            imgSrc: '/src/assets/images/movies/movies-2.jpg',
             duration: '1h 57min',
             views: '1.5K'
           },
           {
             title: 'Suraj pe Mangal Bhari',
-            imgSrc: '/src/assets/images/movies/3.jpg',
+            imgSrc: '/src/assets/images/movies/movies-3.jpg',
             duration: '2h 10min',
             views: '1.8K'
           },
           {
             title: 'Pathan',
-            imgSrc: '/src/assets/images/movies/4.jpg',
+            imgSrc: '/src/assets/images/movies/movies-4.jpg',
             duration: '2h 20min',
             views: '3K'
           },
           {
             title: 'Ant-Man',
-            imgSrc: '/src/assets/images/movies/5.jpg',
+            imgSrc: '/src/assets/images/movies/movies-5.jpg',
             duration: '1h 42min',
             views: '5K'
           },
 
           {
             title: 'Morbius',
-            imgSrc: '/src/assets/images/movies/1.jpg',
+            imgSrc: '/src/assets/images/movies/movies-1.jpg',
             duration: '1h 30min',
             views: '2K'
           },
           {
             title: 'Kisi Ka Bhai Kisi Ki Jaan',
-            imgSrc: '/src/assets/images/movies/2.jpg',
+            imgSrc: '/src/assets/images/movies/movies-2.jpg',
             duration: '1h 57min',
             views: '1.5K'
           },
           {
             title: 'Suraj pe Mangal Bhari',
-            imgSrc: '/src/assets/images/movies/3.jpg',
+            imgSrc: '/src/assets/images/movies/movies-3.jpg',
             duration: '2h 10min',
             views: '1.8K'
           },
           {
             title: 'Pathan',
-            imgSrc: '/src/assets/images/movies/4.jpg',
+            imgSrc: '/src/assets/images/movies/movies-4.jpg',
             duration: '2h 20min',
             views: '3K'
           },
           {
             title: 'Ant-Man',
-            imgSrc: '/src/assets/images/movies/5.jpg',
+            imgSrc: '/src/assets/images/movies/movies-5.jpg',
             duration: '1h 42min',
             views: '5K'
           },
 
           {
             title: 'Morbius',
-            imgSrc: '/src/assets/images/movies/1.jpg',
+            imgSrc: '/src/assets/images/movies/movies-1.jpg',
             duration: '1h 30min',
             views: '2K'
           },
           {
             title: 'Kisi Ka Bhai Kisi Ki Jaan',
-            imgSrc: '/src/assets/images/movies/2.jpg',
+            imgSrc: '/src/assets/images/movies/movies-2.jpg',
             duration: '1h 57min',
             views: '1.5K'
           },
           {
             title: 'Suraj pe Mangal Bhari',
-            imgSrc: '/src/assets/images/movies/3.jpg',
+            imgSrc: '/src/assets/images/movies/movies-3.jpg',
             duration: '2h 10min',
             views: '1.8K'
           },
           {
             title: 'Pathan',
-            imgSrc: '/src/assets/images/movies/4.jpg',
+            imgSrc: '/src/assets/images/movies/movies-4.jpg',
             duration: '2h 20min',
             views: '3K'
           },
           {
             title: 'Ant-Man',
-            imgSrc: '/src/assets/images/movies/5.jpg',
+            imgSrc: '/src/assets/images/movies/movies-5.jpg',
             duration: '1h 42min',
             views: '5K'
           },
 
           {
             title: 'Morbius',
-            imgSrc: '/src/assets/images/movies/1.jpg',
+            imgSrc: '/src/assets/images/movies/movies-1.jpg',
             duration: '1h 30min',
             views: '2K'
           },
           {
             title: 'Kisi Ka Bhai Kisi Ki Jaan',
-            imgSrc: '/src/assets/images/movies/2.jpg',
+            imgSrc: '/src/assets/images/movies/movies-2.jpg',
             duration: '1h 57min',
             views: '1.5K'
           },
           {
             title: 'Suraj pe Mangal Bhari',
-            imgSrc: '/src/assets/images/movies/3.jpg',
+            imgSrc: '/src/assets/images/movies/movies-3.jpg',
             duration: '2h 10min',
             views: '1.8K'
           },
           {
             title: 'Pathan',
-            imgSrc: '/src/assets/images/movies/4.jpg',
+            imgSrc: '/src/assets/images/movies/movies-4.jpg',
             duration: '2h 20min',
             views: '3K'
           },
           {
             title: 'Ant-Man',
-            imgSrc: '/src/assets/images/movies/5.jpg',
+            imgSrc: '/src/assets/images/movies/movies-5.jpg',
             duration: '1h 42min',
             views: '5K'
           },
@@ -340,7 +340,7 @@ const collectionGroups = [
         movieItems:  [
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/1.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-1.jpg',
             released: {
               label: '14 April 2023',
               dateTime: '2023-04-14',
@@ -348,7 +348,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/2.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-2.jpg',
             released: {
               label: '22 April 2023',
               dateTime: '2023-04-22',
@@ -356,7 +356,7 @@ const collectionGroups = [
           },
           {
             title: 'Sin City',
-            imgSrc: '/src/assets/images/movies-new/3.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-3.jpg',
             released: {
               label: '13 April 2023',
               dateTime: '2023-04-13',
@@ -364,7 +364,7 @@ const collectionGroups = [
           },
           {
             title: 'The Tomorrow War',
-            imgSrc: '/src/assets/images/movies-new/4.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-4.jpg',
             released: {
               label: '19 April 2023',
               dateTime: '2023-04-19',
@@ -372,7 +372,7 @@ const collectionGroups = [
           },
           {
             title: 'Misfire',
-            imgSrc: '/src/assets/images/movies-new/5.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-5.jpg',
             released: {
               label: '11 April 2023',
               dateTime: '2023-04-11',
@@ -381,7 +381,7 @@ const collectionGroups = [
 
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/1.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-1.jpg',
             released: {
               label: '14 April 2023',
               dateTime: '2023-04-14',
@@ -389,7 +389,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/2.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-2.jpg',
             released: {
               label: '22 April 2023',
               dateTime: '2023-04-22',
@@ -397,7 +397,7 @@ const collectionGroups = [
           },
           {
             title: 'Sin City',
-            imgSrc: '/src/assets/images/movies-new/3.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-3.jpg',
             released: {
               label: '13 April 2023',
               dateTime: '2023-04-13',
@@ -405,7 +405,7 @@ const collectionGroups = [
           },
           {
             title: 'The Tomorrow War',
-            imgSrc: '/src/assets/images/movies-new/4.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-4.jpg',
             released: {
               label: '19 April 2023',
               dateTime: '2023-04-19',
@@ -413,7 +413,7 @@ const collectionGroups = [
           },
           {
             title: 'Misfire',
-            imgSrc: '/src/assets/images/movies-new/5.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-5.jpg',
             released: {
               label: '11 April 2023',
               dateTime: '2023-04-11',
@@ -422,7 +422,7 @@ const collectionGroups = [
 
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/1.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-1.jpg',
             released: {
               label: '14 April 2023',
               dateTime: '2023-04-14',
@@ -430,7 +430,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/2.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-2.jpg',
             released: {
               label: '22 April 2023',
               dateTime: '2023-04-22',
@@ -438,7 +438,7 @@ const collectionGroups = [
           },
           {
             title: 'Sin City',
-            imgSrc: '/src/assets/images/movies-new/3.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-3.jpg',
             released: {
               label: '13 April 2023',
               dateTime: '2023-04-13',
@@ -446,7 +446,7 @@ const collectionGroups = [
           },
           {
             title: 'The Tomorrow War',
-            imgSrc: '/src/assets/images/movies-new/4.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-4.jpg',
             released: {
               label: '19 April 2023',
               dateTime: '2023-04-19',
@@ -454,7 +454,7 @@ const collectionGroups = [
           },
           {
             title: 'Misfire',
-            imgSrc: '/src/assets/images/movies-new/5.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-5.jpg',
             released: {
               label: '11 April 2023',
               dateTime: '2023-04-11',
@@ -463,7 +463,7 @@ const collectionGroups = [
 
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/1.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-1.jpg',
             released: {
               label: '14 April 2023',
               dateTime: '2023-04-14',
@@ -471,7 +471,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-new/2.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-2.jpg',
             released: {
               label: '22 April 2023',
               dateTime: '2023-04-22',
@@ -479,7 +479,7 @@ const collectionGroups = [
           },
           {
             title: 'Sin City',
-            imgSrc: '/src/assets/images/movies-new/3.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-3.jpg',
             released: {
               label: '13 April 2023',
               dateTime: '2023-04-13',
@@ -487,7 +487,7 @@ const collectionGroups = [
           },
           {
             title: 'The Tomorrow War',
-            imgSrc: '/src/assets/images/movies-new/4.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-4.jpg',
             released: {
               label: '19 April 2023',
               dateTime: '2023-04-19',
@@ -495,7 +495,7 @@ const collectionGroups = [
           },
           {
             title: 'Misfire',
-            imgSrc: '/src/assets/images/movies-new/5.jpg',
+            imgSrc: '/src/assets/images/movies-new/movies-new-5.jpg',
             released: {
               label: '11 April 2023',
               dateTime: '2023-04-11',
@@ -508,7 +508,7 @@ const collectionGroups = [
         movieItems:  [
           {
             title: 'Kantara',
-            imgSrc: '/src/assets/images/movies-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-1.jpg',
             duration: '1h 57min',
             rating: {
               value: 4.5,
@@ -517,7 +517,7 @@ const collectionGroups = [
           },
           {
             title: 'Pushpa',
-            imgSrc: '/src/assets/images/movies-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-2.jpg',
             duration: '1h 30min',
             rating: {
               value: 4,
@@ -526,7 +526,7 @@ const collectionGroups = [
           },
           {
             title: 'Blade runner 2045',
-            imgSrc: '/src/assets/images/movies-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-3.jpg',
             duration: '1h 42min',
             rating: {
               value: 4.5,
@@ -535,7 +535,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-4.jpg',
             duration: '2h 10min',
             rating: {
               value: 4,
@@ -545,7 +545,7 @@ const collectionGroups = [
 
           {
             title: 'Kantara',
-            imgSrc: '/src/assets/images/movies-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-1.jpg',
             duration: '1h 57min',
             rating: {
               value: 4.5,
@@ -554,7 +554,7 @@ const collectionGroups = [
           },
           {
             title: 'Pushpa',
-            imgSrc: '/src/assets/images/movies-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-2.jpg',
             duration: '1h 30min',
             rating: {
               value: 4,
@@ -563,7 +563,7 @@ const collectionGroups = [
           },
           {
             title: 'Blade runner 2045',
-            imgSrc: '/src/assets/images/movies-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-3.jpg',
             duration: '1h 42min',
             rating: {
               value: 4.5,
@@ -572,7 +572,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-4.jpg',
             duration: '2h 10min',
             rating: {
               value: 4,
@@ -582,7 +582,7 @@ const collectionGroups = [
 
           {
             title: 'Kantara',
-            imgSrc: '/src/assets/images/movies-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-1.jpg',
             duration: '1h 57min',
             rating: {
               value: 4.5,
@@ -591,7 +591,7 @@ const collectionGroups = [
           },
           {
             title: 'Pushpa',
-            imgSrc: '/src/assets/images/movies-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-2.jpg',
             duration: '1h 30min',
             rating: {
               value: 4,
@@ -600,7 +600,7 @@ const collectionGroups = [
           },
           {
             title: 'Blade runner 2045',
-            imgSrc: '/src/assets/images/movies-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-3.jpg',
             duration: '1h 42min',
             rating: {
               value: 4.5,
@@ -609,7 +609,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-4.jpg',
             duration: '2h 10min',
             rating: {
               value: 4,
@@ -619,7 +619,7 @@ const collectionGroups = [
 
           {
             title: 'Kantara',
-            imgSrc: '/src/assets/images/movies-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-1.jpg',
             duration: '1h 57min',
             rating: {
               value: 4.5,
@@ -628,7 +628,7 @@ const collectionGroups = [
           },
           {
             title: 'Pushpa',
-            imgSrc: '/src/assets/images/movies-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-2.jpg',
             duration: '1h 30min',
             rating: {
               value: 4,
@@ -637,7 +637,7 @@ const collectionGroups = [
           },
           {
             title: 'Blade runner 2045',
-            imgSrc: '/src/assets/images/movies-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-3.jpg',
             duration: '1h 42min',
             rating: {
               value: 4.5,
@@ -646,7 +646,7 @@ const collectionGroups = [
           },
           {
             title: 'Adipurush',
-            imgSrc: '/src/assets/images/movies-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/movies-mustwatch/movies-must-4.jpg',
             duration: '2h 10min',
             rating: {
               value: 4,
@@ -701,40 +701,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -742,40 +742,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -783,40 +783,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
 
@@ -824,40 +824,40 @@ const collectionGroups = [
             title: 'Action',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/action/1.jpg',
-              '/src/assets/images/categories/action/2.jpg',
-              '/src/assets/images/categories/action/3.jpg',
-              '/src/assets/images/categories/action/4.jpg',
+              '/src/assets/images/categories/action/action-1.jpg',
+              '/src/assets/images/categories/action/action-2.jpg',
+              '/src/assets/images/categories/action/action-3.jpg',
+              '/src/assets/images/categories/action/action-4.jpg',
             ],
           },
           {
             title: 'Adventure',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/adventure/1.jpg',
-              '/src/assets/images/categories/adventure/2.jpg',
-              '/src/assets/images/categories/adventure/3.jpg',
-              '/src/assets/images/categories/adventure/4.jpg',
+              '/src/assets/images/categories/adventure/adventure-1.jpg',
+              '/src/assets/images/categories/adventure/adventure-2.jpg',
+              '/src/assets/images/categories/adventure/adventure-3.jpg',
+              '/src/assets/images/categories/adventure/adventure-4.jpg',
             ],
           },
           {
             title: 'Comedy',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/comedy/1.jpg',
-              '/src/assets/images/categories/comedy/2.jpg',
-              '/src/assets/images/categories/comedy/3.jpg',
-              '/src/assets/images/categories/comedy/4.jpg',
+              '/src/assets/images/categories/comedy/comedy-1.jpg',
+              '/src/assets/images/categories/comedy/comedy-2.jpg',
+              '/src/assets/images/categories/comedy/comedy-3.jpg',
+              '/src/assets/images/categories/comedy/comedy-4.jpg',
             ],
           },
           {
             title: 'Drama',
             badge: 'Top 10 in',
             images: [
-              '/src/assets/images/categories/drama/1.jpg',
-              '/src/assets/images/categories/drama/2.jpg',
-              '/src/assets/images/categories/drama/3.jpg',
-              '/src/assets/images/categories/drama/4.jpg',
+              '/src/assets/images/categories/drama/drama-1.jpg',
+              '/src/assets/images/categories/drama/drama-2.jpg',
+              '/src/assets/images/categories/drama/drama-3.jpg',
+              '/src/assets/images/categories/drama/drama-4.jpg',
             ],
           },
         ],
@@ -897,28 +897,28 @@ const collectionGroups = [
         movieItems:  [
           {
             title: 'Stranger Things',
-            imgSrc: '/src/assets/images/shows/1.jpg',
+            imgSrc: '/src/assets/images/shows/show-1.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Money Heist',
-            imgSrc: '/src/assets/images/shows/2.jpg',
+            imgSrc: '/src/assets/images/shows/show-2.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Lucifer',
-            imgSrc: '/src/assets/images/shows/3.jpg',
+            imgSrc: '/src/assets/images/shows/show-3.jpg',
             duration: '14h 30min',
             season: '3 Seasons',
             href: './show.html',
           },
           {
             title: 'The Gray Man',
-            imgSrc: '/src/assets/images/shows/4.jpg',
+            imgSrc: '/src/assets/images/shows/show-4.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
@@ -926,28 +926,28 @@ const collectionGroups = [
 
           {
             title: 'Stranger Things',
-            imgSrc: '/src/assets/images/shows/1.jpg',
+            imgSrc: '/src/assets/images/shows/show-1.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Money Heist',
-            imgSrc: '/src/assets/images/shows/2.jpg',
+            imgSrc: '/src/assets/images/shows/show-2.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Lucifer',
-            imgSrc: '/src/assets/images/shows/3.jpg',
+            imgSrc: '/src/assets/images/shows/show-3.jpg',
             duration: '14h 30min',
             season: '3 Seasons',
             href: './show.html',
           },
           {
             title: 'The Gray Man',
-            imgSrc: '/src/assets/images/shows/4.jpg',
+            imgSrc: '/src/assets/images/shows/show-4.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
@@ -955,28 +955,28 @@ const collectionGroups = [
 
           {
             title: 'Stranger Things',
-            imgSrc: '/src/assets/images/shows/1.jpg',
+            imgSrc: '/src/assets/images/shows/show-1.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Money Heist',
-            imgSrc: '/src/assets/images/shows/2.jpg',
+            imgSrc: '/src/assets/images/shows/show-2.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Lucifer',
-            imgSrc: '/src/assets/images/shows/3.jpg',
+            imgSrc: '/src/assets/images/shows/show-3.jpg',
             duration: '14h 30min',
             season: '3 Seasons',
             href: './show.html',
           },
           {
             title: 'The Gray Man',
-            imgSrc: '/src/assets/images/shows/4.jpg',
+            imgSrc: '/src/assets/images/shows/show-4.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
@@ -984,28 +984,28 @@ const collectionGroups = [
 
           {
             title: 'Stranger Things',
-            imgSrc: '/src/assets/images/shows/1.jpg',
+            imgSrc: '/src/assets/images/shows/show-1.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Money Heist',
-            imgSrc: '/src/assets/images/shows/2.jpg',
+            imgSrc: '/src/assets/images/shows/show-2.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Lucifer',
-            imgSrc: '/src/assets/images/shows/3.jpg',
+            imgSrc: '/src/assets/images/shows/show-3.jpg',
             duration: '14h 30min',
             season: '3 Seasons',
             href: './show.html',
           },
           {
             title: 'The Gray Man',
-            imgSrc: '/src/assets/images/shows/4.jpg',
+            imgSrc: '/src/assets/images/shows/show-4.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
@@ -1047,28 +1047,28 @@ const collectionGroups = [
         movieItems: [
           {
             title: 'High town',
-            imgSrc: '/src/assets/images/shows-new/1.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-1.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Mirzapur',
-            imgSrc: '/src/assets/images/shows-new/2.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-2.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
           },
           {
             title: 'Into the shadows',
-            imgSrc: '/src/assets/images/shows-new/3.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-3.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Peaky blinders',
-            imgSrc: '/src/assets/images/shows-new/4.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-4.jpg',
             duration: '10h 30min',
             season: '3 Seasons',
             href: './show.html',
@@ -1076,28 +1076,28 @@ const collectionGroups = [
 
           {
             title: 'High town',
-            imgSrc: '/src/assets/images/shows-new/1.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-1.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Mirzapur',
-            imgSrc: '/src/assets/images/shows-new/2.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-2.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
           },
           {
             title: 'Into the shadows',
-            imgSrc: '/src/assets/images/shows-new/3.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-3.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Peaky blinders',
-            imgSrc: '/src/assets/images/shows-new/4.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-4.jpg',
             duration: '10h 30min',
             season: '3 Seasons',
             href: './show.html',
@@ -1105,28 +1105,28 @@ const collectionGroups = [
 
           {
             title: 'High town',
-            imgSrc: '/src/assets/images/shows-new/1.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-1.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Mirzapur',
-            imgSrc: '/src/assets/images/shows-new/2.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-2.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
           },
           {
             title: 'Into the shadows',
-            imgSrc: '/src/assets/images/shows-new/3.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-3.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Peaky blinders',
-            imgSrc: '/src/assets/images/shows-new/4.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-4.jpg',
             duration: '10h 30min',
             season: '3 Seasons',
             href: './show.html',
@@ -1134,28 +1134,28 @@ const collectionGroups = [
 
           {
             title: 'High town',
-            imgSrc: '/src/assets/images/shows-new/1.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-1.jpg',
             duration: '12h 23min',
             season: '5 Seasons',
             href: './show.html',
           },
           {
             title: 'Mirzapur',
-            imgSrc: '/src/assets/images/shows-new/2.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-2.jpg',
             duration: '7h 40min',
             season: '2 Seasons',
             href: './show.html',
           },
           {
             title: 'Into the shadows',
-            imgSrc: '/src/assets/images/shows-new/3.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-3.jpg',
             duration: '8h 20min',
             season: '4 Seasons',
             href: './show.html',
           },
           {
             title: 'Peaky blinders',
-            imgSrc: '/src/assets/images/shows-new/4.jpg',
+            imgSrc: '/src/assets/images/shows-new/show-new-4.jpg',
             duration: '10h 30min',
             season: '3 Seasons',
             href: './show.html',
@@ -1197,7 +1197,7 @@ const collectionGroups = [
         movieItems:  [
           {
             title: 'Duranga',
-            imgSrc: '/src/assets/images/shows-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-1.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1206,7 +1206,7 @@ const collectionGroups = [
           },
           {
             title: 'Money Heist part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-2.jpg',
             duration: '12h 33min',
             rating: {
               value: 5,
@@ -1215,7 +1215,7 @@ const collectionGroups = [
           },
           {
             title: 'Mai',
-            imgSrc: '/src/assets/images/shows-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-3.jpg',
             duration: '10h 30min',
             rating: {
               value: 4,
@@ -1224,7 +1224,7 @@ const collectionGroups = [
           },
           {
             title: 'Stranger Things part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-4.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1234,7 +1234,7 @@ const collectionGroups = [
 
           {
             title: 'Duranga',
-            imgSrc: '/src/assets/images/shows-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-1.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1243,7 +1243,7 @@ const collectionGroups = [
           },
           {
             title: 'Money Heist part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-2.jpg',
             duration: '12h 33min',
             rating: {
               value: 5,
@@ -1252,7 +1252,7 @@ const collectionGroups = [
           },
           {
             title: 'Mai',
-            imgSrc: '/src/assets/images/shows-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-3.jpg',
             duration: '10h 30min',
             rating: {
               value: 4,
@@ -1261,7 +1261,7 @@ const collectionGroups = [
           },
           {
             title: 'Stranger Things part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-4.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1271,7 +1271,7 @@ const collectionGroups = [
 
           {
             title: 'Duranga',
-            imgSrc: '/src/assets/images/shows-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-1.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1280,7 +1280,7 @@ const collectionGroups = [
           },
           {
             title: 'Money Heist part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-2.jpg',
             duration: '12h 33min',
             rating: {
               value: 5,
@@ -1289,7 +1289,7 @@ const collectionGroups = [
           },
           {
             title: 'Mai',
-            imgSrc: '/src/assets/images/shows-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-3.jpg',
             duration: '10h 30min',
             rating: {
               value: 4,
@@ -1298,7 +1298,7 @@ const collectionGroups = [
           },
           {
             title: 'Stranger Things part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-4.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1308,7 +1308,7 @@ const collectionGroups = [
 
           {
             title: 'Duranga',
-            imgSrc: '/src/assets/images/shows-mustwatch/1.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-1.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
@@ -1317,7 +1317,7 @@ const collectionGroups = [
           },
           {
             title: 'Money Heist part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/2.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-2.jpg',
             duration: '12h 33min',
             rating: {
               value: 5,
@@ -1326,7 +1326,7 @@ const collectionGroups = [
           },
           {
             title: 'Mai',
-            imgSrc: '/src/assets/images/shows-mustwatch/3.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-3.jpg',
             duration: '10h 30min',
             rating: {
               value: 4,
@@ -1335,7 +1335,7 @@ const collectionGroups = [
           },
           {
             title: 'Stranger Things part 3',
-            imgSrc: '/src/assets/images/shows-mustwatch/4.jpg',
+            imgSrc: '/src/assets/images/shows-mustwatch/show-must-4.jpg',
             duration: '7h 40min',
             rating: {
               value: 4.5,
