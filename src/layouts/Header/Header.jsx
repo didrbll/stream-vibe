@@ -36,7 +36,7 @@ const Header = (props) => {
     let filename = cleanPath.split('/').pop();
     filename = filename.replace('.html', '');
 
-    if (filename === 'index.html') return '';
+    if (filename === 'index') return '';
 
     return filename;
   }
